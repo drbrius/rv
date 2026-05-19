@@ -1,4 +1,1 @@
-{
-  "timestamp": 1779174804195,
-  "version": "60271f5d"
-}
+{ "rewrites": [{"source": "/(.*)", "destination": "/"}]  }
